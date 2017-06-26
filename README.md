@@ -11,21 +11,23 @@ See some examples and documentation below. PyFlux is still only alpha software; 
 
 [Click here for a getting started guide](http://pyflux.readthedocs.io/en/latest/getting_started.html).
 
+**Note From Author** : I am currently working on other projects as of now, so have paused updates for this library for the immediate future. I will likely come back to finish things later this year, but if you'd like to help move the library forward by contributing, then do get in touch!
+
 ## Models
 
 - [ARIMA models](http://pyflux.readthedocs.io/en/latest/arima.html)
- - [ARIMAX models](http://pyflux.readthedocs.io/en/latest/arimax.html)
- - [Dynamic Autoregression models](http://pyflux.readthedocs.io/en/latest/docs/dar.html)
+  - [ARIMAX models](http://pyflux.readthedocs.io/en/latest/arimax.html)
+  - [Dynamic Autoregression models](http://pyflux.readthedocs.io/en/latest/docs/dar.html)
 - [Dynamic Paired Comparison models](http://pyflux.readthedocs.io/en/latest/gas_rank.html)
 - [GARCH models](http://pyflux.readthedocs.io/en/latest/garch.html)
- - [Beta-t-EGARCH models](http://pyflux.readthedocs.io/en/latest/egarch.html)
- - [EGARCH-in-mean models](http://pyflux.readthedocs.io/en/latest/egarchm.html)
- - [EGARCH-in-mean regression models](http://pyflux.readthedocs.io/en/latest/egarchmreg.html)
- - [Long Memory EGARCH models](http://pyflux.readthedocs.io/en/latest/lmegarch.html)
- - [Skew-t-EGARCH models](http://pyflux.readthedocs.io/en/latest/segarch.html)
- - [Skew-t-EGARCH-in-mean models](http://pyflux.readthedocs.io/en/latest/segarchm.html)
+  - [Beta-t-EGARCH models](http://pyflux.readthedocs.io/en/latest/egarch.html)
+  - [EGARCH-in-mean models](http://pyflux.readthedocs.io/en/latest/egarchm.html)
+  - [EGARCH-in-mean regression models](http://pyflux.readthedocs.io/en/latest/egarchmreg.html)
+  - [Long Memory EGARCH models](http://pyflux.readthedocs.io/en/latest/lmegarch.html)
+  - [Skew-t-EGARCH models](http://pyflux.readthedocs.io/en/latest/segarch.html)
+  - [Skew-t-EGARCH-in-mean models](http://pyflux.readthedocs.io/en/latest/segarchm.html)
 - [GAS models](http://pyflux.readthedocs.io/en/latest/gas.html)
- - [GASX models](http://pyflux.readthedocs.io/en/latest/gasx.html)
+  - [GASX models](http://pyflux.readthedocs.io/en/latest/gasx.html)
 - [GAS State Space models](http://pyflux.readthedocs.io/en/latest/gas_llm.html)
 - [Gaussian State Space models](http://pyflux.readthedocs.io/en/latest/llm.html)
 - [Non-Gaussian State Space models](http://pyflux.readthedocs.io/en/latest/nllm.html)
